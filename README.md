@@ -17,4 +17,6 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
+## Сайт 
 
+[Сайт доступен по ссылке](https://adrenaline22.github.io/https---github.com-Adrenaline22-project3/)
